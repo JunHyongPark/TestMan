@@ -4,6 +4,7 @@ public class HelloWorld {
 		System.out.println("Very Slow");
 		System.out.println("Hello Git");
 		System.out.println("난 매스터");
+		System.out.println("asfasdf");
 		
 	}
 
