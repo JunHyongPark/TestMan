@@ -3,7 +3,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Very Slow");
 		System.out.println("Hello Git");
-		System.out.println("³ªÁ» º¸³»Áà");
+		System.out.println("GitHub Good!");
 	}
 
 }
